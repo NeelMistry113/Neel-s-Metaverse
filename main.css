@@ -1,0 +1,19 @@
+/* Imported Constom Fonts */
+
+
+/* Page CSS */
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: transparent;
+}
+
+html,
+body
+{
+    overflow: hidden;
+    cursor: grab;
+}
+
+
+/*# sourceMappingURL=main.css.map*/
