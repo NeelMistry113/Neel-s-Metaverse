@@ -1,0 +1,32 @@
+/* Imported Constom Fonts */
+
+
+/* Page CSS */
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: transparent;
+}
+
+html,
+body
+{
+    overflow: hidden;
+    cursor: grab;
+}
+
+.buttonWrap {
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    z-index: 10;
+    display: flex;
+}
+
+.button{
+    padding: 16px;
+    margin: 4px;
+    background: #fff;
+}
+
+/*# sourceMappingURL=main.css.map*/
